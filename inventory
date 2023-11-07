@@ -1,2 +1,5 @@
 [mongodb]
 mongodb.joindevops.icu
+
+[catalogue]
+catalogue.joindevops.icu

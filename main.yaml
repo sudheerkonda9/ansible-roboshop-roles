@@ -1,5 +1,5 @@
 - name: Installing Robo Shop 
-  hosts: mongodb
+  hosts: "{{component}}"
   become: yes
   roles:
-  - mongodb
+  - "{{component}}"
